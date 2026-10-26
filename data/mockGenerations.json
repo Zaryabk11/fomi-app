@@ -1,0 +1,317 @@
+[
+  {
+    "id": "gen_6",
+    "prompt": "A professional portrait photograph of a smiling 31-year-old redheaded woman with warm brown eyes and softly tousled auburn hair framing her face. She is turned slightly towards the viewer, offering a genuine and approachable expression. She is wearing a cream-colored cashmere sweater and delicate gold earrings. The background is a softly blurred expanse of muted grey and beige tones, suggesting a modern art gallery. There is subtle directional lighting",
+    "ratio": "3:4",
+    "style": "Portrait",
+    "model": "Fomi Realism v2",
+    "createdAt": "2026-10-25T10:20:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_6_m1",
+        "type": "image",
+        "src": "/mock/gen_6-1.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Vadim Sherbakov",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgL/xAAhEAACAQMEAwEAAAAAAAAAAAABAgMABBEFEiFRMTKB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/ADaxwmMlriQSDwuzOfuagoc+7/vtLp9N05ELLaAHcOd57FF7hALmULgKHOB1zQdiZf/Z"
+      },
+      {
+        "id": "gen_6_m2",
+        "type": "image",
+        "src": "/mock/gen_6-2.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Alex",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIRAAMEIRJBBhYy/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AFU8hybo0ttdbMGo9hyumsEdHlWQwMq87tNwwF5R1qllzb7KDKiRPyKD/9k="
+      },
+      {
+        "id": "gen_6_m3",
+        "type": "image",
+        "src": "/mock/gen_6-3.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Daniel Genser",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIABAYRAwUxMoGRof/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIVH/2gAMAwEAAhEDEQA/AL6e6KRcK1Oq+Ypu3bgeiTNxqsMD7EDnHA9SLnR0f//Z"
+      },
+      {
+        "id": "gen_6_m4",
+        "type": "image",
+        "src": "/mock/gen_6-4.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Justin Leibow",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAIBABAAEEAQUBAAAAAAAAAAAAAQIAAxExBAUhQWGhwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGREBAAIDAAAAAAAAAAAAAAAAAQADAhES/9oADAMBAAIRAxEAPwA9mEm5K1JwgYlFEy61us96kijDXugHN5FobVu7KMJbD8fFRjB2+0XmXsbrFds//9k="
+      }
+    ]
+  },
+  {
+    "id": "gen_5",
+    "prompt": "A professional portrait photograph of a smiling 31-year-old redheaded woman with warm brown eyes and softly tousled auburn hair framing her face. She is turned slightly towards the viewer, offering a genuine and approachable expression. She is wearing a cream-colored cashmere sweater and delicate gold earrings. The background is a softly blurred expanse of muted grey and beige tones, suggesting a modern art gallery. There is subtle directional lighting",
+    "ratio": "3:4",
+    "style": "Portrait",
+    "model": "Fomi Realism v2",
+    "createdAt": "2026-10-25T10:00:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_5_m1",
+        "type": "image",
+        "src": "/mock/gen_5-1.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Alexander Shustov",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAkEAABAgUCBwAAAAAAAAAAAAABAhEAAwQFIRJBFTFSkZOh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIRMUH/2gAMAwEAAhEDEQA/AF591rDeJZkBZowACjQxJ5kl89oX4hT9S/Gr5BDqUFaVlLZxu20SM9TlgPcTZZwa0f/Z"
+      },
+      {
+        "id": "gen_5_m2",
+        "type": "image",
+        "src": "/mock/gen_5-2.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Alexander Shustov",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAIxAAAQMDAgcAAAAAAAAAAAAAAQIDEQAEBRIhBhQiUXGRsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAgERAxIh/9oADAMBAAIRAxEAPwDbw9nb99TvMTcJO42A0mflJBepgSjfzQzG3Km8akNgJKyRq7RVhkHyB1H3QHdtpoZGNa6f/9k="
+      },
+      {
+        "id": "gen_5_m3",
+        "type": "image",
+        "src": "/mock/gen_5-3.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Nicholas Swanson",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAIBAAAgICAAcAAAAAAAAAAAAAAQIAEQMUBCEiMVJik//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEBAAMAAAAAAAAAAAAAAAAAABESYf/aAAwDAQACEQMRAD8Au4siOgdSjK3MEEROj1mC3XTh1cXbX2aoO2/lk+hkXww//9k="
+      },
+      {
+        "id": "gen_5_m4",
+        "type": "image",
+        "src": "/mock/gen_5-4.jpg",
+        "width": 768,
+        "height": 1024,
+        "alt": "Sample photo by Rula Sibai",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAANAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDAAURIQQSEyJBUWHB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCtbp7S3GXwREutqWP3RJLvaUkZcxeUkajaspBM0vFTvs6UEHBx8+9EbllWI6DRx6flB//Z"
+      }
+    ]
+  },
+  {
+    "id": "gen_v1",
+    "prompt": "Slow cinematic pan across a meadow of wildflowers in soft morning light, shallow depth of field",
+    "ratio": "16:9",
+    "style": "Cinematic",
+    "model": "Fomi Studio",
+    "createdAt": "2026-10-25T09:40:00Z",
+    "mode": "video",
+    "items": [
+      {
+        "id": "gen_v1_m1",
+        "type": "video",
+        "src": "/mock/flower.mp4",
+        "poster": "/mock/video-1-poster.jpg",
+        "duration": 5,
+        "width": 1024,
+        "height": 576,
+        "alt": "Time-lapse of a flower blooming",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAAwQREiH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/AM1VkWZFLLtRyvh5kBx036WJiJa69gAX/9k="
+      },
+      {
+        "id": "gen_v1_m2",
+        "type": "video",
+        "src": "/mock/friday.mp4",
+        "poster": "/mock/video-2-poster.jpg",
+        "duration": 5,
+        "width": 1024,
+        "height": 576,
+        "alt": "Short sample clip with moving lights",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECAxEUIjNBUZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAANRExT/2gAMAwEAAhEDEQA/ANnIklqjFx47Iuur7a9ABbMonnXD/9k="
+      }
+    ]
+  },
+  {
+    "id": "gen_4",
+    "prompt": "Neon-lit street in Tokyo after the rain, reflections on wet asphalt, cinematic wide shot, shallow depth of field",
+    "ratio": "16:9",
+    "style": "Cinematic",
+    "model": "Fomi Studio",
+    "createdAt": "2026-10-25T09:15:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_4_m1",
+        "type": "image",
+        "src": "/mock/gen_4-1.jpg",
+        "width": 1024,
+        "height": 576,
+        "alt": "Sample photo by Cristian Moscoso",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAfEAABAwMFAAAAAAAAAAAAAAABAAIDBRIWISNCUaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Aq2ruijbtAXjidQq5DL2/xEQf/9k="
+      },
+      {
+        "id": "gen_4_m2",
+        "type": "image",
+        "src": "/mock/gen_4-2.jpg",
+        "width": 1024,
+        "height": 576,
+        "alt": "Sample photo by Alexander Shustov",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACAwQFERIGITGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAATH/2gAMAwEAAhEDEQA/ALQ8hqoKWWZznO0xt5n50s117uMrzILhUNDzsAABjKIpZCf/2Q=="
+      },
+      {
+        "id": "gen_4_m3",
+        "type": "image",
+        "src": "/mock/gen_4-3.jpg",
+        "width": 1024,
+        "height": 576,
+        "alt": "Sample photo by Dorothy Lin",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAHRAAAgIDAAMAAAAAAAAAAAAAAQIEEQADBRJCkf/EABQBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AjD3boUGbz1YOkigrH1s+JPzMK8hXQMdhsizQxjGB/9k="
+      },
+      {
+        "id": "gen_4_m4",
+        "type": "image",
+        "src": "/mock/gen_4-4.jpg",
+        "width": 1024,
+        "height": 576,
+        "alt": "Sample photo by Jon Eckert",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAeEAACAgEFAQAAAAAAAAAAAAABAgARAwQFBhYiwf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwCTtW42pyMjhvJBQfKkj8jyF2vTYruIkhSegb//2Q=="
+      }
+    ]
+  },
+  {
+    "id": "gen_3",
+    "prompt": "A cozy wooden cabin in a snowy pine forest at dusk, warm light glowing from the windows, soft falling snow",
+    "ratio": "4:3",
+    "style": "Film",
+    "model": "Fomi Realism v2",
+    "createdAt": "2026-10-24T17:40:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_3_m1",
+        "type": "image",
+        "src": "/mock/gen_3-1.jpg",
+        "width": 1024,
+        "height": 768,
+        "alt": "Sample photo by Tyler Finck",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAIAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgIDAAAAAAAAAAAAAAABAwACERMhMUH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AhalZUCCBfvFfZBsWOCu2REQP/9k="
+      },
+      {
+        "id": "gen_3_m2",
+        "type": "image",
+        "src": "/mock/gen_3-2.jpg",
+        "width": 1024,
+        "height": 768,
+        "alt": "Sample photo by Jon Eckert",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAIAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAHRAAAgMAAgMAAAAAAAAAAAAAAQIAAxEEBRMhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/AI7n4fZonncUXuCK7BpJz6G05Ml+s5QdgArAH0Q4wxEHeStSqP/Z"
+      },
+      {
+        "id": "gen_3_m3",
+        "type": "image",
+        "src": "/mock/gen_3-3.jpg",
+        "width": 1024,
+        "height": 768,
+        "alt": "Sample photo by Isaak Dury",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAIAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECAwQFERQhYZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAIBAxP/2gAMAwEAAhEDEQA/ANt5Wg48W6T7mQsnBrXbx9YAnmodFjH/2Q=="
+      },
+      {
+        "id": "gen_3_m4",
+        "type": "image",
+        "src": "/mock/gen_3-4.jpg",
+        "width": 1024,
+        "height": 768,
+        "alt": "Sample photo by Jassy Onyae",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAIAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAIBAAAQMEAgMAAAAAAAAAAAAAAQACAwQFEUESIRMUUf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACESH/2gAMAwEAAhEDEQA/AIpYKyoq/H7LiIgHvlccbyXDZHzK2pLfap5HSugPKQlx72e0RS3ujhFnZ//Z"
+      }
+    ]
+  },
+  {
+    "id": "gen_2",
+    "prompt": "Minimalist product photo of a glass perfume bottle on a pale pink pedestal, soft studio shadows",
+    "ratio": "1:1",
+    "style": "None",
+    "model": "Fomi Fast",
+    "createdAt": "2026-10-24T14:05:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_2_m1",
+        "type": "image",
+        "src": "/mock/gen_2-1.jpg",
+        "width": 896,
+        "height": 896,
+        "alt": "Sample photo by Alexander Shustov",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAKAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAhEAABBAEDBQAAAAAAAAAAAAABAAIDERIEBSEiQUJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAGREAAwADAAAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwA0seijjDn5Nu/Mm0UHbaF5X7Sg0OjbkAeO6kY2WehvxT70aynEf//Z"
+      },
+      {
+        "id": "gen_2_m2",
+        "type": "image",
+        "src": "/mock/gen_2-2.jpg",
+        "width": 896,
+        "height": 896,
+        "alt": "Sample photo by May Pamintuan",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAKAAoDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACMQAQEAAQEHBQAAAAAAAAAAAAECAAMEBRESEyFxIjEyUZH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAA//aAAwDAQACEQMRAD8Av6G9YLgIOmnqprueMfNs0k4jKecyWnVcvyf3BVMtKh7/AFk5ss7kX//Z"
+      },
+      {
+        "id": "gen_2_m3",
+        "type": "image",
+        "src": "/mock/gen_2-3.jpg",
+        "width": 896,
+        "height": 896,
+        "alt": "Sample photo by Paul Evans",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAKAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEE/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIAAxESUQQhIjHR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAMAwEAAhEDEQA/AByGqUhUNHAgOB5LlYW+ytwiWJyHZ0JmV2KgFjbV4GZixJY+9w5Vr//Z"
+      },
+      {
+        "id": "gen_2_m4",
+        "type": "image",
+        "src": "/mock/gen_2-4.jpg",
+        "width": 896,
+        "height": 896,
+        "alt": "Sample photo by Dorothy Lin",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAKAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAABAwIGAwAAAAAAAAAAAAABAAIEAxEFBhIhMdETUWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8ABSzNLpb1T5W+3t6TBmmOQLw2k/Kw6UOIA/CZBeA7TpIvvblRzyUH/9k="
+      }
+    ]
+  },
+  {
+    "id": "gen_1",
+    "prompt": "A lone astronaut standing on a dune under two moons, tall vertical composition, painterly sci-fi concept art",
+    "ratio": "9:16",
+    "style": "3D",
+    "model": "Fomi Anime",
+    "createdAt": "2026-10-23T21:30:00Z",
+    "mode": "image",
+    "items": [
+      {
+        "id": "gen_1_m1",
+        "type": "image",
+        "src": "/mock/gen_1-1.jpg",
+        "width": 576,
+        "height": 1024,
+        "alt": "Sample photo by Sonja Langford",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASAAoDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAAMEEhEhQQUiUTFjkaGx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANj1be1RWqOBrqfoRh1GyIByqb+0ZzdUsy5FCHQE+nAiLcNgO/iA9Le6qA+G/Y2K+B8SlA//2Q=="
+      },
+      {
+        "id": "gen_1_m2",
+        "type": "image",
+        "src": "/mock/gen_1-2.jpg",
+        "width": 576,
+        "height": 1024,
+        "alt": "Sample photo by Sander Weeteling",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASAAoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAjEAABAwMEAgMAAAAAAAAAAAABAAIDERIhBBMiURQxQWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwL/xAAWEQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhEDEQA/AOIQyXxzEO2hKGh3wDWtFbfpIb3cT77UjdlsDSWhgdcBbivdEzyNUc3uNfoI9YWpwtnTtaW5aDwJyP1IIFThCE0t/9k="
+      },
+      {
+        "id": "gen_1_m3",
+        "type": "image",
+        "src": "/mock/gen_1-3.jpg",
+        "width": 576,
+        "height": 1024,
+        "alt": "Sample photo by Rula Sibai",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASAAoDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCBQb/xAAhEAADAAICAgIDAAAAAAAAAAABAgMAEQQFITESIlFhwf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAMBAQEAAAAAAAAAAAAAAAABEQIxMv/aAAwDAQACEQMRAD8AYnAHpTOCuvIbaqtCB8mP6HseffrWRl0lliijkOAFAAMmOsvKvFOrhSjSX6Lt3PkDQxBe4mFAPa8UaHrbH+4qy52pTCdhWjrJXo7AINAsTjnH48G48yYzJKAklR+MMMb6ZLyj/9k="
+      },
+      {
+        "id": "gen_1_m4",
+        "type": "image",
+        "src": "/mock/gen_1-4.jpg",
+        "width": 576,
+        "height": 1024,
+        "alt": "Sample photo by Julie Geiger",
+        "blurDataURL": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASAAoDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQb/xAAlEAABAwIDCQAAAAAAAAAAAAABAAMRAiEGQVEFEiIlMWKRk+H/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQITQVH/2gAMAwEAAhEDEQA/ANaxuyBfZ3DJuHLxll1UjjcSeXU+z4uPpbfMRQQNUu492+QimCwmyXSUnVJJ1KELdgj/2Q=="
+      }
+    ]
+  }
+]
